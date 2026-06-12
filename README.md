@@ -46,7 +46,7 @@ This project is preserved as an archive of early JavaScript experiments.
 ---
 
 ## 🌐 Live Version
-*(Link will appear here once GitHub Pages is enabled)*
+https://sk8rfu.github.io/wheels-of-trucks/
 
 ---
 
